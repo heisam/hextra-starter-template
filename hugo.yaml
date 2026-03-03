@@ -42,7 +42,7 @@ params:
     displayPoweredBy: true
 
   editURL:
-    enable: true
+    enable: false
     base: "https://github.com/heisam/hextra-starter-template/edit/main/content"
 
   imageZoom:
